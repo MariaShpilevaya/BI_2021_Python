@@ -27,7 +27,7 @@ def transcribe(sequence):
                 transcribed_sequence += replacements.get(lower_case_base)
             else:
                 transcribed_sequence += replacements.get(lower_case_base).upper()
-        print('Here you go: ', transcribed_sequence)
+        print('Here you go: ', ''.join(transcribed_sequence))
     else:
         transcribe(input('Only DNA sequence will do, so please try again: '))
 
