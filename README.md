@@ -1,3 +1,1 @@
-# BI_2021_Python
-This is my repository for python classes in bioinformatics university
-First change
+Yes, same code, but I hope this one will cause conflict
