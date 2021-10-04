@@ -1,3 +1,2 @@
-# BI_2021_Python
-This is my repository for python classes in bioinformatics university
-First change
+Here I have only created two functions but extremely useful 
+if you are discussing juice packs with somebody from US
